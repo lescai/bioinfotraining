@@ -1,0 +1,9 @@
+
+#################################################
+# Parameters settings
+#################################################
+
+#the file is passed with its absolute path
+inputBam=$1
+echo "received the input string = $inputBam"
+echo
