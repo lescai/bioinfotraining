@@ -10,3 +10,5 @@ samtools index ${inputBam}
 # End
 #################################################
 echo "### END job finished"
+
+### I want to finish this way
