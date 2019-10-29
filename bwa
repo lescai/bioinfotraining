@@ -5,3 +5,8 @@
 module load SAMTools/latest
 
 samtools index ${inputBam}
+
+#################################################
+# End
+#################################################
+echo "### END job finished"
