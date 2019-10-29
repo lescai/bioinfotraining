@@ -1,0 +1,7 @@
+##################################################
+# COMPUTATION
+##################################################
+
+module load SAMTools/latest
+
+samtools index ${inputBam}
