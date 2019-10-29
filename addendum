@@ -7,3 +7,4 @@
 inputBam=$1
 echo "received the input string = $inputBam"
 echo
+echo "nothing more"
